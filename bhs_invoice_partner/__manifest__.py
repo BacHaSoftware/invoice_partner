@@ -14,7 +14,7 @@
     'depends': ['account'],
     'data': ['views/res_partner.xml'],
     "external_dependencies": {},
-    'images': ['static/description/banner.gif'],
+    'images': ['static/description/banner.png'],
     'installable': True,
     'application': True,
     'auto_install': False,
