@@ -8,7 +8,7 @@
     <img src="/bhs_invoice_partner/static/description/icon.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Invoice Currency By Customer</h3>
+  <h3 align="center">Invoice Currency Auto‑Match</h3>
 
   <p align="center">
     A product of Bac Ha Software allows to set currency of invoice to the same as customer's currency.
